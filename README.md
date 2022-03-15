@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @RZando
+- 👀 I’m interested in Sec/Dev
+- 🌱 I’m currently learning Golang
+- 💞️ I’m looking to collaborate on XpInc
